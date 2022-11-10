@@ -1,0 +1,23 @@
+[
+  {
+    "name": "category-cat",
+    "path": "/category/:cat?",
+    "component": "C:\\\\Users\\\\petro\\\\Desktop\\\\Webjar\\\\prasinos-typos\\\\pages\\\\category\\\\_cat.vue",
+    "chunkName": "pages/category/_cat",
+    "_name": "_06d65db0"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "C:\\\\Users\\\\petro\\\\Desktop\\\\Webjar\\\\prasinos-typos\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id",
+    "_name": "_de67d662"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\petro\\\\Desktop\\\\Webjar\\\\prasinos-typos\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_59d4b687"
+  }
+]
